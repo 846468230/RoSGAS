@@ -9,12 +9,16 @@ The main.py is used for training RoSGAS for social bots detection.
 python main.py
 ```
 To train the RoSGAS.
+# Heterogeneous social graph schema
+![Model Structure](schema.png)
 
 # Model
 ![Model Structure](model.png)
 
-# Model
-![Model Structure](model.png)
+# Results
+
+![Main Results](result.png)
+![Visualization Results](Visualization.png)
 
 # Citation
 ```
