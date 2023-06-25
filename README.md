@@ -18,6 +18,8 @@ To train the RoSGAS.
 # Results
 
 ![Main Results](result.png)
+
+# Visualization results
 ![Visualization Results](Visualization.png)
 
 # Citation
