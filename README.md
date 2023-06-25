@@ -10,7 +10,7 @@ python main.py
 ```
 To train the RoSGAS.
 # Heterogeneous social graph schema
-![Model Structure](schema.png)
+![Heterogeneous graph schema](schema.png)
 
 # Model
 ![Model Structure](model.png)
